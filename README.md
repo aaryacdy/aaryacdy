@@ -3,7 +3,8 @@
 💻 **Java Backend Engineer | EdTech Platform Developer**  
 📍 London, United Kingdom
 
-Backend-focused developer building scalable backend systems using Java, Spring Boot, and REST APIs. I work at Digital Nepal, where I contribute to education technology platforms that help schools manage academic and administrative systems digitally.
+Backend-focused developer building scalable backend systems using Java, Spring Boot, and REST APIs. 
+I worked at Digital Nepal for 5 years, where I contribute to education technology platforms that help schools manage academic and administrative systems digitally.
 
 I enjoy designing backend architectures, improving system performance, and learning modern technologies like microservices.
 
@@ -18,7 +19,7 @@ Working on EdTech platforms designed to digitize school management systems.
 **Key contributions:**
 
 - Developed backend services using Java and Spring Boot
-- Built REST APIs for student, billing, and academic management systems
+- Built REST APIs for student, Inventory, Account, LMS, Payroll, Billing, and academic management systems
 - Implemented secure authentication using JWT
 - Improved system performance and data processing
 - Contributed to software used by educational institutions to manage digital operations
