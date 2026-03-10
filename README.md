@@ -1,16 +1,86 @@
-## Hi there 👋
+Hi, I'm Aarya Chaudhary
 
-<!--
-**aaryacdy/aaryacdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Java Backend Engineer | Java Software Engineer | EdTech Platform Developer
+📍 London, United Kingdom
 
-Here are some ideas to get you started:
+Backend-focused developer building scalable backend systems using Java, Spring Boot, and REST APIs.
+Worked at Digital Nepal, where I contribute to education technology platforms that help schools manage academic and administrative systems digitally.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy designing backend architectures, improving system performance, and learning modern technologies like microservices.
+
+💼 Professional Experience
+Backend Engineer — Digital Nepal
+
+Working on EdTech platforms designed to digitize school management systems.
+
+Key contributions:
+
+Developed backend services using Java and Spring Boot
+Built REST APIs for student, billing, and academic management systems
+Implemented secure authentication using JWT
+Improved system performance and data processing
+Contributed to software used by educational institutions to manage digital operations
+
+🚀 Tech Stack
+Backend
+
+Java
+Spring Boot
+Spring Security
+JWT Authentication
+
+Databases
+
+MySQL
+PostgreSQL
+JPA / Hibernate
+
+Frontend
+
+JavaScript
+HTML5
+CSS3
+
+Frontend
+JavaScript
+HTML
+CSS
+
+Tools & Development
+
+Git
+GitHub
+Maven
+Postman
+IntelliJ IDEA
+
+Architecture & Concepts
+
+Microservices Architecture
+REST API Design
+Authentication & Authorization
+MVC Architecture
+
+Currently Learning
+Docker
+AWS Cloud
+System Design
+
+Features:
+📚 JavaScript Exercises
+
+📊 GitHub Stats
+
+🔗 Connect With Me
+
+💼 LinkedIn
+https://www.linkedin.com/in/aaryacdy/
+
+💻 GitHub
+https://github.com/aaryacdy
+
+🎯 Current Focus
+
+Building Java Spring Boot microservices
+Improving backend system performance
+Learning cloud technologies and distributed systems
