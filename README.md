@@ -1,86 +1,62 @@
-Hi, I'm Aarya Chaudhary
+## Hi, I'm Aarya Chaudhary
 
-💻 Java Backend Engineer | Java Software Engineer | EdTech Platform Developer
+💻 **Java Backend Engineer | EdTech Platform Developer**  
 📍 London, United Kingdom
 
-Backend-focused developer building scalable backend systems using Java, Spring Boot, and REST APIs.
-Worked at Digital Nepal, where I contribute to education technology platforms that help schools manage academic and administrative systems digitally.
+Backend-focused developer building scalable backend systems using Java, Spring Boot, and REST APIs. I work at Digital Nepal, where I contribute to education technology platforms that help schools manage academic and administrative systems digitally.
 
 I enjoy designing backend architectures, improving system performance, and learning modern technologies like microservices.
 
-💼 Professional Experience
-Backend Engineer — Digital Nepal
+---
+
+### 💼 Professional Experience
+
+**Backend Engineer — Digital Nepal**
 
 Working on EdTech platforms designed to digitize school management systems.
 
-Key contributions:
+**Key contributions:**
 
-Developed backend services using Java and Spring Boot
-Built REST APIs for student, billing, and academic management systems
-Implemented secure authentication using JWT
-Improved system performance and data processing
-Contributed to software used by educational institutions to manage digital operations
+- Developed backend services using Java and Spring Boot
+- Built REST APIs for student, billing, and academic management systems
+- Implemented secure authentication using JWT
+- Improved system performance and data processing
+- Contributed to software used by educational institutions to manage digital operations
 
-🚀 Tech Stack
-Backend
+---
 
-Java
-Spring Boot
-Spring Security
-JWT Authentication
+### 🚀 Tech Stack
 
-Databases
+**Backend**  
+Java · Spring Boot · Spring Security · JWT Authentication
 
-MySQL
-PostgreSQL
-JPA / Hibernate
+**Databases**  
+MySQL · PostgreSQL · JPA / Hibernate
 
-Frontend
+**Frontend**  
+JavaScript · HTML5 · CSS3
 
-JavaScript
-HTML5
-CSS3
+**Tools & Development**  
+Git · GitHub · Maven · Postman · IntelliJ IDEA
 
-Frontend
-JavaScript
-HTML
-CSS
+**Architecture & Concepts**  
+Microservices Architecture · REST API Design · Authentication & Authorization · MVC Architecture
 
-Tools & Development
+**Currently Learning**  
+Docker · AWS Cloud · System Design
 
-Git
-GitHub
-Maven
-Postman
-IntelliJ IDEA
 
-Architecture & Concepts
+---
 
-Microservices Architecture
-REST API Design
-Authentication & Authorization
-MVC Architecture
+### 🔗 Connect With Me
 
-Currently Learning
-Docker
-AWS Cloud
-System Design
+- 💼 [LinkedIn](https://www.linkedin.com/in/aaryacdy/)
+- 💻 [GitHub](https://github.com/aaryacdy)
 
-Features:
-📚 JavaScript Exercises
+---
 
-📊 GitHub Stats
+### 🎯 Current Focus
 
-🔗 Connect With Me
-
-💼 LinkedIn
-https://www.linkedin.com/in/aaryacdy/
-
-💻 GitHub
-https://github.com/aaryacdy
-
-🎯 Current Focus
-
-Building Java Spring Boot microservices
-Improving backend system performance
-Learning cloud technologies and distributed systems
+- Building Java Spring Boot microservices
+- Improving backend system performance
+- Learning cloud technologies and distributed systems
