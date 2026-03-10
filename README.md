@@ -1,7 +1,7 @@
 ## Hi, I'm Aarya Chaudhary
 
 💻 **Java Backend Engineer | EdTech Platform Developer**  
-📍 London, United Kingdom
+📍 Kathmandu, Nepal
 
 Backend-focused developer building scalable backend systems using Java, Spring Boot, and REST APIs. 
 I worked at Digital Nepal for 5 years, where I contribute to education technology platforms that help schools manage academic and administrative systems digitally.
