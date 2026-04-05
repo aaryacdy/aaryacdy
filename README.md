@@ -1,6 +1,6 @@
 ## Hi, I'm Aarya Chaudhary
 
-💻 **Java Backend Engineer | EdTech Platform Developer**  
+💻 **Java Full Stack Developer | Backend Engineer | EdTech Platform Developer**  
 📍 Kathmandu, Nepal
 
 Backend-focused developer building scalable backend systems using Java, Spring Boot, and REST APIs. 
